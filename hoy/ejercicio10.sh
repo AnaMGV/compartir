@@ -6,7 +6,7 @@ contrasena_correcta="contrasena"
 
 # Verifica si se proporcionan dos parámetros (usuario y contraseña)
 if [ $# -ne 2 ]; then
-    echo "Por favor, proporciona un nombre de usuario y una contraseña como parámetros."
+    echo "Por favor,  proporciona un nombre de usuario y una contraseña como parámetros."
     exit 1
 fi
 
